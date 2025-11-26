@@ -48,7 +48,7 @@
 | Debian | /ˈdebiən/ | 稳定的Linux发行版 |
 | DigitalOcean | /ˈdɪdʒɪtl ˈoʊʃən/ | 云基础设施提供商 |
 | Django | /ˈdʒæŋɡoʊ/ | Python的Web应用框架 |
-| Docker | /ˈdɑːkər/ | 容器化平台 |
+| Docker | /ˈdɑːkər/ 或 /ˈdɒkər/ | 容器化平台 |
 
 ## E
 
