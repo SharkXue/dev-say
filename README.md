@@ -65,7 +65,7 @@
 
 2. **克隆到本地**
    ```bash
-   git clone https://github.com/Galaxsy/dev-say.git
+   git clone https://github.com/SharkXue/dev-say.git
    cd dev-say
    ```
 
@@ -360,7 +360,7 @@ A: 在"国际音标"列中用"或"连接多种读法。优先列出官方推荐�
 **Q: 我不会使用 Git 和 GitHub，还能贡献吗？**
 
 A: 可以！你可以：
-1. 在 [Issues](https://github.com/Galaxsy/dev-say/issues) 中提交术语建议，由其他贡献者帮你添加
+1. 在 [Issues](https://github.com/SharkXue/dev-say/issues) 中提交术语建议，由其他贡献者帮你添加
 2. 学习 Git 基础知识，推荐资源：[GitHub 官方教程](https://docs.github.com/cn/get-started)
 
 **Q: 提交 Pull Request 后需要等多久才能被合并？**
@@ -470,8 +470,8 @@ A: 如果你：
 **Q: 我有其他问题或建议，应该在哪里反馈？**
 
 A: 欢迎通过以下方式反馈：
-- [GitHub Issues](https://github.com/Galaxsy/dev-say/issues) - 报告问题或提建议
-- [GitHub Discussions](https://github.com/Galaxsy/dev-say/discussions) - 参与讨论
+- [GitHub Issues](https://github.com/SharkXue/dev-say/issues) - 报告问题或提建议
+- [GitHub Discussions](https://github.com/SharkXue/dev-say/discussions) - 参与讨论
 - Pull Request - 直接提交改进
 
 ## 许可证
@@ -497,9 +497,9 @@ A: 欢迎通过以下方式反馈：
 
 ## 联系方式
 
-- 📝 提交 Issue: [GitHub Issues](https://github.com/Galaxsy/dev-say/issues)
-- 💬 参与讨论: [GitHub Discussions](https://github.com/Galaxsy/dev-say/discussions)
-- 🔀 提交 PR: [Pull Requests](https://github.com/Galaxsy/dev-say/pulls)
+- 📝 提交 Issue: [GitHub Issues](https://github.com/SharkXue/dev-say/issues)
+- 💬 参与讨论: [GitHub Discussions](https://github.com/SharkXue/dev-say/discussions)
+- 🔀 提交 PR: [Pull Requests](https://github.com/SharkXue/dev-say/pulls)
 
 ---
 
