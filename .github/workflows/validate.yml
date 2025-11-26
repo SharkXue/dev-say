@@ -1,0 +1,29 @@
+name: Validate Documentation
+
+on:
+  pull_request:
+    branches: [ main, master ]
+    paths:
+      - 'dev-say.md'
+      - 'scripts/validate_format.py'
+      - '.github/workflows/validate.yml'
+  push:
+    branches: [ main, master ]
+    paths:
+      - 'dev-say.md'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+    
+    - name: Validate dev-say.md format
+      run: python scripts/validate_format.py
